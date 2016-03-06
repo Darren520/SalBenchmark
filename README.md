@@ -18,10 +18,15 @@ Table of Contents
 
 - Quick Start
 	1.Download and UnZip SalBenchmark.rar.
+
 	2.Install OpenCV (2.0 and 3.0 are both OK).
+
 	3.Run ./Code/matlab/RunAll.m to produce SaliencyMap.
+
 	4.Open ./Code/Demo.sln (Visual Studio 2013).
+
 	5.Press "Ctrl + F5" in release x64(recommend).
+
 	6.OK,you have got all materials.
 	
 - Introduction
