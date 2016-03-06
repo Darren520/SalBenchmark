@@ -17,6 +17,7 @@ Table of Contents
 =================
 
 - Quick Start
+
 	1.Download and UnZip SalBenchmark.rar.
 
 	2.Install OpenCV (2.0 and 3.0 are both OK).
